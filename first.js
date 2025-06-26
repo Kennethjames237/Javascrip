@@ -25,3 +25,13 @@ console.log(Number.MAX_VALUE*10)
 num5 = 123234312121212121212121212121212n //big integer 
 console.log(num5-2n)
 console.log(typeof num5) 
+//string 
+let first_name = 'kenny'
+let last_name = 'james'
+names = first_name + " "+ last_name
+console.log(names)
+console.log("kenny\n james is a good by \b")
+let check  = 5 == 4
+console.log(check)
+let cat
+console.log (typeof cat)
