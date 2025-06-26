@@ -14,3 +14,14 @@ let radius = 5
 const pi = 3.14
 area = pi *  radius * radius 
 console.log("the area is " + area)
+//Data type
+let data = 8    //type number
+let user = "ken" // string
+console.log(typeof radius)
+let money = 1_000_000
+let num3 = -5/0
+console.log(num3)
+console.log(Number.MAX_VALUE*10)
+num5 = 123234312121212121212121212121212n //big integer 
+console.log(num5-2n)
+console.log(typeof num5) 
