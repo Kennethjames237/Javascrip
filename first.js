@@ -9,3 +9,8 @@ console.log(num + 3)
 
 let user_name = " Kenneth's Account "
 console.log(user_name)
+//constant 
+let radius = 5 
+const pi = 3.14
+area = pi *  radius * radius 
+console.log("the area is " + area)
